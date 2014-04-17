@@ -1,0 +1,6 @@
+# version=147.0
+skinServerURL=http://skins.minecraft.net/MinecraftSkins/
+capeServerURL=http://skins.minecraft.net/MinecraftCloaks/
+
+# Change next line to 'true' if your server does not support capital letters (wordpress.com doesn't). Default value is 'false'
+forceLowercase=false
